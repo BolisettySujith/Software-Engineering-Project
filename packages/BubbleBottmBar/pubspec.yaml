@@ -1,0 +1,14 @@
+name: bubble_bottom_bar
+version: 1.2.0
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  badges: ^2.0.0-nullsafety.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
