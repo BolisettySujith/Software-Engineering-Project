@@ -1,6 +1,6 @@
 # Seamless Attendance Logger
 
-![](./pictures/header.jpg)
+![](https://github.com/BolisettySujith/Software-Engineering-Project/assets/73323807/57e0573e-5b3b-4694-af0e-bc3bab1700f8)
 
 ## Introduction 👨‍💻
 In the era of education, efficient attendance tracking is more than just a daily task; it’s a vital step into the fabric of academic success. Traditional methods of logging student attendance, often reliant on manual recording in logbooks, have remained a steadfast yet cumbersome practice for generations. As the twenty-first century draws near its end, there arises a growing necessity for utilizing innovative tactics which capitalize on technological means to better this vital process.
