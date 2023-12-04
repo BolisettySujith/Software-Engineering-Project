@@ -40,13 +40,13 @@ To store attendance data efficiently in Google Sheets, we have defined a specifi
   - "A" if the student is Absent on that date.
 
 ## How it works? 🏃‍♂️
-![](./pictures/howitworks.jpg)
+![](https://github.com/BolisettySujith/Software-Engineering-Project/assets/73323807/399af05d-86fb-4305-a8b9-30817dba4f1b)
 
 ## Results 📱
 
-![](./pictures/results1.jpg)
-![](./pictures/results2.jpg)
-![](./pictures/results3.jpg)
+![](https://github.com/BolisettySujith/Software-Engineering-Project/assets/73323807/6cc45be7-8427-49a2-b07e-067b821eaf85)
+![](https://github.com/BolisettySujith/Software-Engineering-Project/assets/73323807/8d4a9397-19ea-494c-a6de-ef4af3f7ea37)
+![](https://github.com/BolisettySujith/Software-Engineering-Project/assets/73323807/78413e1b-cfbb-4e13-8b0d-566e1b117961)
 
 
 ## Getting Started
